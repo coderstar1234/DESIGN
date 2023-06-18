@@ -9,7 +9,7 @@
 - Elliptical design elements
 - Fully responsive layout
 - Suitable for large content
-
+<hr>
 <h1 align="center"><i> Preview:-</i></h1>
 
 - Insert a screenshot or GIF here to showcase the ring and elliptical designs.
