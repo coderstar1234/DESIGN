@@ -20,7 +20,7 @@
 
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in a web browser.
-
+<hr>
 ## Usage
 
 1. Explore the website to view the ring and elliptical designs.
