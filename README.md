@@ -15,6 +15,7 @@
 - Insert a screenshot or GIF here to showcase the ring and elliptical designs.
 - You can use an online image hosting service like Imgur to host the image.
 
+<hr>
 <h1 align="center"><i>Installation:-</i></h1>
 
 1. Clone the repository to your local machine.
