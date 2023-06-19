@@ -31,7 +31,7 @@
 
 - Feel free to customize the designs to fit your project's requirements.
 - You can modify the colors, sizes, and animation effects by editing the CSS and JavaScript files.
-
+<hr>
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to the project, follow these steps:
