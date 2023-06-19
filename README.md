@@ -29,7 +29,8 @@
 
 <h1 align="center"><i> Customization:-</i></h1> 
 
-- Feel free to customize the designs to fit your project's requirements. You can modify the colors, sizes, and animation effects by editing the CSS and JavaScript files.
+- Feel free to customize the designs to fit your project's requirements.
+- You can modify the colors, sizes, and animation effects by editing the CSS and JavaScript files.
 
 ## Contributing
 
