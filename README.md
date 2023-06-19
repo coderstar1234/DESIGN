@@ -26,7 +26,7 @@
 1. Explore the website to view the ring and elliptical designs.
 2. Interact with the designs to experience their responsiveness.
 3. Experiment with adding large content to observe how the designs adapt.
-
+<hr>
 <h1 align="center"><i> Customization:-</i></h1> 
 
 - Feel free to customize the designs to fit your project's requirements.
