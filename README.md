@@ -44,5 +44,5 @@ Contributions are welcome! If you'd like to contribute to the project, follow th
 
 <h1 align="center"><i> License:-</i></h1> 
 
-This project is licensed under the [MIT License](LICENSE).
+- This project is licensed under the [MIT License](LICENSE).
 <hr>
