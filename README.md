@@ -34,7 +34,8 @@
 <hr>
 <h1 align="center"><i>  Contributing:-</i></h1> 
 
-Contributions are welcome! If you'd like to contribute to the project, follow these steps:
+- Contributions are welcome! If you'd like to contribute to the project,
+<p align="center"> follow these steps:</p>
 
 1. Fork the repository.
 2. Create a new branch for your contribution.
