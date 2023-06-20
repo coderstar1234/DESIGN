@@ -41,7 +41,7 @@ Contributions are welcome! If you'd like to contribute to the project, follow th
 3. Make your changes.
 4. Commit and push your changes to your branch.
 5. Submit a pull request, describing your changes and their benefits.
-
+<hr>
 <h1 align="center"><i> License:-</i></h1> 
 
 - This project is licensed under the [MIT License](LICENSE).
