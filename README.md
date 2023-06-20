@@ -32,7 +32,7 @@
 - Feel free to customize the designs to fit your project's requirements.
 - You can modify the colors, sizes, and animation effects by editing the CSS and JavaScript files.
 <hr>
-## Contributing
+<h1 align="center"><i>  Contributing:-</i></h1> 
 
 Contributions are welcome! If you'd like to contribute to the project, follow these steps:
 
