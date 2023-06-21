@@ -1,5 +1,5 @@
 <h1 align="center"><i> Ring and Elliptical Design Showcase:-</i></h1>
-
+<hr height=500>
 - A brief introduction to a design showcase featuring ring-shaped and elliptical designs.
 - The designs are implemented using HTML, CSS, and JavaScript, and they are fully responsive to ensure a seamless viewing experience, even with large content.
 <p align="center">
