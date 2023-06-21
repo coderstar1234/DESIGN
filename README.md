@@ -2,6 +2,7 @@
 
 - A brief introduction to a design showcase featuring ring-shaped and elliptical designs.
 - The designs are implemented using HTML, CSS, and JavaScript, and they are fully responsive to ensure a seamless viewing experience, even with large content.
+<img src="https://i.pinimg.com/originals/1d/5e/ae/1d5eaea64514ea589797d28c4d43c522.gif">
 <hr>
 <h1 align="center"><i> Features:-</i></h1>
 
