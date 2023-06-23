@@ -23,7 +23,7 @@
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in a web browser.
 <hr>
-<h1 align="center"><i>Usage:-</i></h1> 
+<h1 align="center"><i>Usage:📑-</i></h1> 
 
 1. Explore the website to view the ring and elliptical designs.
 2. Interact with the designs to experience their responsiveness.
