@@ -5,7 +5,7 @@
 <p align="center">
 <img hight="200" width="200" src="https://i.pinimg.com/originals/1d/5e/ae/1d5eaea64514ea589797d28c4d43c522.gif"></p>
 <hr>
-<h1 align="center"><i> Features:-</i></h1>
+<h1 align="center"><i> Features:📜-</i></h1>
 
 - Ring-shaped design elements
 - Elliptical design elements
